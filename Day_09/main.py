@@ -17,5 +17,3 @@ while bidding:
         continue
 
 print(bids)
-    
-    
